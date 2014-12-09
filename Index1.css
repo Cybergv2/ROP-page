@@ -1,0 +1,123 @@
+			.container 
+			{
+			  width:963px;
+			  margin-right:auto;
+			  margin-left:auto;
+			  margin-top:35px ;
+			  border:3px solid white;
+			}
+			
+			.banner 
+			{
+			  text-align:center;
+			  height:150px;
+			  width:963px;
+			  margin-right:20px;
+			  background-color:grey;
+			  border-bottom:3px solid white;
+			}
+			
+			 .body 
+			{
+			  height:698px;
+			  width:760px;
+			  background-color:#5B5E5E;
+			  float:right;
+			}
+			
+		  
+			.navigation 
+			{
+			  height:698px;
+			  width:200px;
+			  background-color:#2D2D2E;
+			  float:left;
+			  border-right:3px solid white;
+			}
+			
+			.footer 
+			{ 
+			  height:20px;
+			  width:963px;
+			  background-color:grey;
+			  clear:both;
+			  border-top:3px solid white;
+			}
+			
+			p.text
+			{
+			  margin:15px;
+			  padding:0px;
+			  text-align:center;
+			}
+			
+			a.links:link 
+			{
+			  display:block;
+			  width:105px;
+			  color:cyan;
+			  background:grey;
+			  padding:5px;
+			  text-decoration:none;
+			  float:left;
+			  margin-top:13px;
+			  margin-left:26px;
+			}
+			
+			a.links:hover
+			{
+			  background-color:darkgrey;
+			}
+			
+			a.links:visited
+			{
+			  color:white;
+			}
+			
+			a.links:active
+			{
+			  background-color:white;
+			}
+			
+			p.greeting
+			{
+			  text-align:center;
+			  color:white;
+			  margin-top:35px;
+			}
+			
+			p.title
+			{
+			  text-align:center;
+			  font-size:65px;
+			  margin-top:0px;
+			  padding-top:40px;
+			  font-weight:bold;
+			}
+			
+			body 
+			{
+			  background-color:#4D4D4D;
+			  background-image:url('space background2.jpg');
+			  background-repeat:no-repeat;
+			}
+			
+			a.email:link
+			{
+			  float:right;
+			  margin-right:20px;
+			  text-decoration:none;
+			  color:cyan;
+			}
+			
+			a.email:hover
+			{
+			  color:cyan;
+			  text-decoration:underline;
+			}
+			
+			.chief
+			{
+				margin-left:260px;
+				margin-right:260px;
+			}

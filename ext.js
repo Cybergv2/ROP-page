@@ -1,0 +1,1 @@
+document.write("this came from the script, and is now on the page!"); // you can't see dis?
